@@ -1,0 +1,21 @@
+﻿Immagine;Metodo;PSNR (dB);SSIM;MAE
+img.png;Baseline;18,4;0,417;25,93
+img.png;Contrast Stretching LAB;19,86;0,244;21,27
+img.png;Histogram Equalization LAB;17,36;0,221;29,82
+img.png;Denoise + CLAHE;21,23;0,734;19,77
+img2.png;Baseline;14,6;0,299;41,06
+img2.png;Contrast Stretching LAB;13,07;0,206;41,32
+img2.png;Histogram Equalization LAB;13,47;0,192;41,38
+img2.png;Denoise + CLAHE;18,05;0,49;24,47
+img3A.png;Baseline;13,06;0,144;54,25
+img3A.png;Contrast Stretching LAB;13,37;0,066;47,53
+img3A.png;Histogram Equalization LAB;6,96;0,046;101,09
+img3A.png;Denoise + CLAHE;21,45;0,559;16,98
+img4.png;Baseline;13,5;0,228;50,93
+img4.png;Contrast Stretching LAB;17,62;0,232;27,97
+img4.png;Histogram Equalization LAB;9,58;0,122;73,04
+img4.png;Denoise + CLAHE;20,07;0,478;20,2
+img5.png;Baseline;20,32;0,375;20,35
+img5.png;Contrast Stretching LAB;17,2;0,119;29,37
+img5.png;Histogram Equalization LAB;16,39;0,111;32,49
+img5.png;Denoise + CLAHE;18,62;0,869;26,33
